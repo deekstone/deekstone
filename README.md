@@ -19,3 +19,7 @@ I'm a passionate React Native developer with over 5 years of experience in JavaS
 - **Form Management:** React Hook Form
 - **Styling:** SCSS
 - **Testing:** Jest, React Native Testing Library
+
+## 🌟 Projects
+
+- [Turkish Checkers](https://github.com/deekstone/turkish-checkers): Developed a Turkish Checkers board game where I applied backtracking to find the longest path and integrated Socket.IO for simultaneous play between two players.
