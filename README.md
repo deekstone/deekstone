@@ -1,5 +1,7 @@
 # Hi there, I'm Elie Deek 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=deekstone&style=flat-square)
+
 ## 🚀 About Me
 
 I'm a passionate React Native developer with over 5 years of experience in JavaScript, including extensive work with React, React Native, React Native Web, and TypeScript. I love tackling new challenges and am always on the lookout for new things to learn and explore.
