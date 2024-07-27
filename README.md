@@ -23,3 +23,4 @@ I'm a passionate React Native developer with over 5 years of experience in JavaS
 ## 🌟 Projects
 
 - [Turkish Checkers](https://github.com/deekstone/turkish-checkers): Developed a Turkish Checkers board game where I applied backtracking to find the longest path and integrated Socket.IO for simultaneous play between two players.
+- [URL Shortener](https://github.com/deekstone/url-shortener): Played around with Next.js 14 to build a URL shortener, caching the data in Redis. Since Next.js 14 also supports backend servers, I also added the APIs in the same project.
