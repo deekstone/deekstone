@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Elie Deek 👋
 
-<!--
-**deekstone/deekstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate React Native developer with over 5 years of experience in JavaScript, including extensive work with React, React Native, React Native Web, and TypeScript. I love tackling new challenges and am always on the lookout for new things to learn and explore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Up To
+
+- 🌱 Currently practicing Data Structures and Algorithms (DSA) and system design concepts.
+- 🔧 Building robust, scalable, and performant mobile applications.
+- 💻 Exploring advanced concepts in React Native and modern JavaScript frameworks.
+- 🎨 Crafting beautiful web interfaces with SCSS.
+
+## 💼 Skills
+
+- **Languages:** JavaScript, TypeScript
+- **Front-end:** React, React Native, React Native Web
+- **State Management:** Redux, Redux Toolkit, RTK Query
+- **Form Management:** React Hook Form
+- **Styling:** SCSS
+- **Testing:** Jest, React Native Testing Library
